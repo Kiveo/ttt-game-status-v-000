@@ -14,4 +14,5 @@ WIN_COMBINATIONS = [
   [0,4,8], #7
   [2,4,6] #8 possible win scenarios
 ]
-
+def won?(board)
+end
